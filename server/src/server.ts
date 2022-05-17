@@ -8,11 +8,6 @@ app.use(cors());
 app.use(express.json());
 app.use(routes);
 
-
-
-
-
-
 // GET, POST, PUT, PATCH, DELETE
 
 // GET = Buscar informações
